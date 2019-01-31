@@ -1,0 +1,30 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msasansalimi/liri-node-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msasansalimi/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/msasansalimi/liri-node-app#readme",
+  "description": "",
+  "dependencies": {
+    "bandsintown": "^1.0.1",
+    "dotenv": "^6.2.0",
+    "file-system": "^2.2.2",
+    "imdb-api": "^4.0.2",
+    "moment": "^2.24.0",
+    "node-spotify-api": "^1.0.7",
+    "omdb-client": "^2.0.0",
+    "request": "^2.88.0"
+  }
+}
