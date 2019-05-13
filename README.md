@@ -12,7 +12,7 @@ In this assignment, I have made LIRI. LIRI is like iPhone's SIRI. However, while
 
 - [Request](https://www.npmjs.com/package/request)
 
-  - You'll use Request to grab data from the [OMDB API](http://www.omdbapi.com) and the [Bands In Town API](http://www.artists.bandsintown.com/bandsintown-api)
+  - I have used Request to grab data from the [OMDB API](http://www.omdbapi.com) and the [Bands In Town API](http://www.artists.bandsintown.com/bandsintown-api)
 
 - [Moment](https://www.npmjs.com/package/moment)
 
